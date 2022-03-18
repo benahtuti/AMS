@@ -19,6 +19,9 @@
 	  	}else{
 			array_push($alert,"There was a problem uploading the image!");
 	  	}
+		
+		
+		
 	}
 
 
